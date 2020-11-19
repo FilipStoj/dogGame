@@ -1,0 +1,45 @@
+body {
+    background-image: url(images/gamebg.png);
+    background-size: cover;
+}
+#canvas{
+    border: 1px solid black; 
+    position: relative;
+}
+#container {
+    position: absolute;
+    top: 40%;
+    left: 75%;
+    color: white;
+    border: 1px solid white;
+}
+.btn {
+    position: absolute;
+    top: 50%; 
+    left: 45%; 
+    border: 1px solid black;
+    border-radius: 12px;
+    font-size: 24px;
+    cursor: pointer;
+    opacity: 80%;
+}
+#spilnavn {
+    position: absolute;
+    top: 35%; 
+    left: 45%; 
+    color: white;
+}
+#vindertext {
+    position: absolute;
+    top: 35%; 
+    left: 45%; 
+    color: white;
+}
+#tabertext {
+    position: absolute;
+    top: 35%; 
+    left: 45%; 
+    color: white;
+}
+
+
